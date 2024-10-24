@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️Hi, I’m Sudeshna Das<br>🧑🏻‍💻I have good knowledge of the Android SDK and its various tools, as well as experience with programming languages such as Java and Kotlin. As an Android developer, I enjoy creating innovative, user-friendly applications that can help solve real-world problems.<br>🤖I am a creative person with a keen eye for design and a passion for exploring new ideas. I enjoy experimenting with different technologies and techniques to create unique and visually appealing applications.<br>📚Currently I'm learning React Native to build apps that work seamlessly across different platforms. Excited to broaden my skills and create versatile solutions for various devices.<br>
+Hi, I'm Sudeshna Das 👋<br><br>I'm a final year MCA student with a strong passion for problem-solving and web development. I love tackling challenges and learning new technologies to enhance my skills in building efficient and user-friendly web applications.<br>My goal is to continuously improve and contribute to meaningful projects that make a difference.<br><br>Feel free to explore my projects, and let's connect! 😊<br>
 
 
 ## 🌐 Socials:
