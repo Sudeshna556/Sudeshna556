@@ -1,5 +1,5 @@
 # Hi, I'm Sudeshna Das 👩‍💻 
-I'm a final-year MCA student with a strong passion for problem-solving and web development.<br>Currently, I'm diving into React and working on exciting projects to sharpen my skills in modern web development. I love tackling challenges and learning new technologies to enhance my skills in building efficient and user-friendly web applications.<br>My goal is to continuously improve and contribute to meaningful projects that make a difference.<br><br>Feel free to explore my projects, and let's connect! 😊<br>
+I'm a final-year MCA student with a strong passion for problem-solving and web development.<br>Currently, I'm diving into React and working on exciting projects to sharpen my skills in modern web development. I love tackling challenges and learning new technologies to enhance my skills in building efficient and user-friendly web applications.<br>My goal is to continuously improve and contribute to meaningful projects that make a difference.<br><br>Feel free to explore my projects, and let's connect!  😊<br>
 
 
 ## 🌐 Socials:
