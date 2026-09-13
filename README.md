@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=%3C+Software+Developer+%7C+React+%2B+Spring+Boot+%2F%3E;Full+Stack+Web+Development+Enthusiast;Open+to+Collaborate+on+Exciting+Projects" alt="Typing SVG" />
 </a>
-
 <br/>
 <br/>
 
@@ -14,13 +13,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,php,bootstrap,apache,mysql,nodejs,react,express,spring&perline=13&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,mysql,nodejs,react,express,spring&perline=13&theme=dark" />
 
 </div>
-
+<br/>
 <br/>
 
-<table align="center" width="850">
+<table align="center" width="850" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="850">
 
@@ -30,13 +29,13 @@
 >
 > ⚛️ &nbsp;Currently exploring **React** &amp; **Spring Boot** to sharpen my full-stack skills
 >
-> 🧩 &nbsp;Learning how to tackle new challenges and picking up new technologies along the way
+> 🧩 &nbsp;Learning how to tackle challenges and picking up new technologies along the way
 >
 > 🎯 &nbsp;Focused on contributing to projects that create real, meaningful impact
 
 <div align="center">
 
-✨ *Feel free to explore my work !* ✨
+✨ *Feel free to explore my work!* ✨
 
 </div>
 
@@ -55,7 +54,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeshna556&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:8E2DE2&height=100&section=footer&text=Reach%20out%20-%20I'm%20just%20a%20message%20away%20%F0%9F%92%BC&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
