@@ -57,10 +57,8 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:8E2DE2&height=100&section=footer&text=Reach%20out%20-%20I'm%20just%20a%20message%20away%20%F0%9F%92%BC&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
-<br/>
-<br/>
 
-![](https://komarev.com/ghpvc/?username=Sudeshna556&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge)
+
 
 <!-- <sub>Proudly created with GPRM ( https://gprm.itsvg.in ) — customized banner & layout</sub> -->
 
